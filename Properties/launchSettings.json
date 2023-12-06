@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ZLibRip": {
+      "commandName": "Project",
+      "commandLineArgs": "CLuaFile"
+    }
+  }
+}
